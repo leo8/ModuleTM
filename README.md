@@ -54,9 +54,9 @@ Topic Modeling analysis with Latent Dirichlet Allocation :
 - Analysis of models' relevance and coherence.
  
 
-Results wisualizing with further tools :
+Results visualizing with further tools :
 - Dataframes;
-- Graphiques;
+- Charts;
 - Wordclouds;
 - T-SNE Clustering;
 - LDAvis.
